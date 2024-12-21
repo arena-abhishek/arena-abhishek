@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 # arena-abhishek
-! [ logo ] ()
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
